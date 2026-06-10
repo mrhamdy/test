@@ -1,1 +1,1 @@
-mspaint.exe
+/r /t 0
