@@ -1,1 +1,2 @@
+cmd.exe /c mspaint.exe
 cmd.exe /c shutdown.exe /r /t 0
